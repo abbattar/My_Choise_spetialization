@@ -3,4 +3,4 @@
 2. Looking for variables less or equal then 3 characters
 3. Print on console all variables from a 2 point.
 
-[scheme](https://cloud.mail.ru/public/K65K/VkSRGgM2v)
+[Scheme](https://github.com/abbattar/My_Choise_spetialization/blob/main/Choise_of_Spetialization.png)
